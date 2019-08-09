@@ -1,3 +1,8 @@
+# Fork with fixed release 
+
+Looks like hoa project is not maintained anymore. So this fork adds a new release tag on the commit with a fix to work with other libraries that have global `resolve` function defined (like Laravel framework).
+
+
 <p align="center">
   <img src="https://static.hoa-project.net/Image/Hoa.svg" alt="Hoa" width="250px" />
 </p>
